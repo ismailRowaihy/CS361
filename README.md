@@ -10,7 +10,7 @@
 - [x] Draw sketches for all website pages.
 
 ### Static Front-End Development (HTML/CSS)
-- [ ] Create the static HTML/CSS Home page.
+- [x] Create the static HTML/CSS Home page.
 - [ ] Create the static HTML/CSS Events page.
 - [ ] Create the static HTML/CSS Event details page.
 - [ ] Create the static HTML/CSS Registration page.
