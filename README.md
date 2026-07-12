@@ -4,10 +4,10 @@
 **Phase Focus:** Mid-project progress report timeline (Weeks 1–3)
 
 ### General & Planning
-- [*] Form a group of 3-4 members.
-- [*] Decide on the club/department theme.
-- [*] Complete the website sitemap.
-- [*] Draw sketches for all website pages.
+- [x] Form a group of 3-4 members.
+- [x] Decide on the club/department theme.
+- [x] Complete the website sitemap.
+- [x] Draw sketches for all website pages.
 
 ### Static Front-End Development (HTML/CSS)
 - [ ] Create the static HTML/CSS Home page.
@@ -20,7 +20,7 @@
 - [ ] Ensure valid semantic HTML markup and basic responsive CSS behavior.
 
 ### Weekly Progress Log
-- [*] Write Week 1 progress log entry with a timestamped screenshot.
+- [x] Write Week 1 progress log entry with a timestamped screenshot.
 - [ ] Write Week 2 progress log entry with a timestamped screenshot.
 - [ ] Write Week 3 progress log entry with a timestamped screenshot.
 
