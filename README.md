@@ -11,22 +11,22 @@
 
 ### Static Front-End Development (HTML/CSS)
 - [x] Create the static HTML/CSS Home page.
-- [ ] Create the static HTML/CSS Events page.
-- [ ] Create the static HTML/CSS Event details page.
+- [x] Create the static HTML/CSS Events page.
+- [x] Create the static HTML/CSS Event details page.
 - [ ] Create the static HTML/CSS Registration page.
-- [ ] Create the static HTML/CSS Registrations list page.
+- [x] Create the static HTML/CSS Registrations list page.
 - [ ] Create the static HTML/CSS About/Contact page.
-- [ ] Implement one shared external CSS stylesheet without unjustified inline styles.
-- [ ] Ensure valid semantic HTML markup and basic responsive CSS behavior.
+- [x] Implement one shared external CSS stylesheet without unjustified inline styles.
+- [x] Ensure valid semantic HTML markup and basic responsive CSS behavior.
 
 ### Weekly Progress Log
 - [x] Write Week 1 progress log entry with a timestamped screenshot.
-- [ ] Write Week 2 progress log entry with a timestamped screenshot.
+- [x] Write Week 2 progress log entry with a timestamped screenshot.
 - [ ] Write Week 3 progress log entry with a timestamped screenshot.
 
 ### Mid-Project Progress Report
-- [ ] Draft the Mid-Project Progress Report detailing:
-  - [ ] Work completed.
+- [x] Draft the Mid-Project Progress Report detailing:
+  - [x] Work completed.
   - [ ] Key decisions made.
   - [ ] Problems encountered.
   - [ ] Future plans.
